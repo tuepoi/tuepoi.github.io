@@ -1,0 +1,2 @@
+# Do not publish downloaded installers.
+*.exe
